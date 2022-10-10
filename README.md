@@ -1,3 +1,3 @@
 # hello-world
 N/A
-Hello, Im Sander Looking Foawrd to Learn about Github
+Hello, Im Sander looking foward to learning about Github
